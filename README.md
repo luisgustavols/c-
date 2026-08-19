@@ -1,2 +1,1 @@
-# c-
-Exercicio.
+Atividades da aula 1.
